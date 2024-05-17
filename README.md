@@ -53,16 +53,13 @@ stackoverflow 질문 데이터를 활용하여 다양한 기술 트렌드 및 �
 </aside>
 
 ## 3. 데이터 크롤링 - selenium
+<img width="747" alt="image" src="https://github.com/stackoverflow-dashboard/crawling/assets/80039556/8c24527c-6f74-4f7c-a381-d28b4fff99ea">
 
-![image](https://github.com/stackoverflow-dashboard/crawling/assets/66053902/ecac76ce-11a6-43c8-a042-b99694511a7b)
 
+💡 수집 항목 : `질문 제목`, `태그`, `답변 수`, `조회 수`, `일시(날짜)`
 
-<aside>
-💡 수집 항목 : 질문 제목, 태그, 답변 수, 조회 수, 시간
 수집 일자 : 2024.2.29 ~ 2024.5.15
 총 데이터 수 : 126,351
-
-</aside>
 
 ## 4. 데이터 적재 - S3
 
